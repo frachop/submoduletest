@@ -1,0 +1,3 @@
+[submodule "libs/nbp-lib-torrent"]
+	path = libs/nbp-lib-torrent
+	url = https://github.com/frachop/nbp-lib-torrent
